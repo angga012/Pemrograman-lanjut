@@ -4,10 +4,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Nama: ");
+        System.out.print("Masukan Nama: ");
         String nama = in.nextLine();
 
-        System.out.print("Umur: ");
+        System.out.print("Masukan Umur: ");
         int umur = in.nextInt();
 
         System.out.println("\nHalo, " + nama + "!");
