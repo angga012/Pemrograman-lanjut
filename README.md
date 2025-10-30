@@ -60,7 +60,7 @@ public class Main {
 3. Jalankan perintah berikut:
 
 ```bash
-javac Main.java
+javac main.java
 java Main
 ```
 
